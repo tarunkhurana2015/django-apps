@@ -18,3 +18,11 @@ Activate DJango
 ## Run the Server
 
 `python manage.py runserver`
+
+## Create a new Playground App
+
+`python manage.py startapp playground`
+
+### Run the plaground
+
+`http://127.0.0.1:8000/playground/hello/`
